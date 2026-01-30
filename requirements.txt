@@ -1,0 +1,29 @@
+# Video Factory - Dependencies
+
+# Web UI Framework
+streamlit>=1.30.0
+
+# YouTube Download
+yt-dlp>=2024.1.0
+
+# Audio/Video Processing
+ffmpeg-python>=0.2.0
+pydub>=0.25.1
+moviepy>=1.0.3
+
+# Speech Recognition
+openai-whisper>=20231117
+
+# Translation
+deep-translator>=1.11.4
+
+# Text-to-Speech (AI 配音)
+edge-tts>=6.1.0
+
+# Utilities
+requests>=2.31.0
+tqdm>=4.66.0
+certifi>=2024.0.0
+
+# AI Analysis (OpenAI compatible API)
+openai>=1.0.0
